@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "rootDir": "./src",
+        "outDir": "./public/js",
+        "module": "commonjs",
+        "esModuleInterop": true
+    }
+}
